@@ -1,1 +1,0 @@
-En este repositorio ire subiendo archivos de practicas de algoritmos y estructuras de datos, sintete libre de utilizar los codigos y cambiarlos, ire actualizando simplemente con mas comentarios en los codigos para que puedan enteder lo que hice. 
